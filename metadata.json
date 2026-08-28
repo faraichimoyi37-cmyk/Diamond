@@ -1,0 +1,6 @@
+{
+  "name": "APEX VIP Investment Platform",
+  "description": "An institutional VIP staking and daily income platform featuring fixed-term contracts, instant daily yield payouts, referral invite rewards, and wallet management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
